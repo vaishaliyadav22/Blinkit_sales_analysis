@@ -1,1 +1,1 @@
-# Blinkit_sales_analysis
+The objective of this project is to analyze the sales performance of BlinkIT's outlets across different categories, locations, and product attributes. The goal is to identify key factors that contribute to sales, understand customer preferences, and make data-driven decisions to improve sales strategies. The dashboard visualizes the overall performance metrics, helping stakeholders quickly grasp critical insights and trends.
